@@ -57,3 +57,5 @@ These scripts are distributed under the MIT License. Feel free to use, modify, a
 ---
 
 I hope these Bash scripts are helpful in automating and simplifying your PC's daily tasks. If you have suggestions, improvements, or new scripts to share, don't hesitate to contribute to this repository or contact me!
+
+Author: _**Pier Luca Anania**_
