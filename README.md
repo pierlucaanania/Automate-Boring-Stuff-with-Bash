@@ -2,6 +2,7 @@
 
 Welcome to the repository dedicated to PC automation through Bash scripts! This repository has been created with the goal of streamlining and optimizing various activities on your machine using Bash scripts.
 
+**A/N**: The description is deliberately verbose, and sometimes repetitive, for educational purposes and to bring as many people as possible closer to this world made of **!**,**#** and **?**.
 ## Available Scripts
 
 ### 1. Operation through Command-Line Arguments
